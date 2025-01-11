@@ -42,7 +42,7 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-
+.android
 
 # Firebase Config Files
 #app/google-services.json
